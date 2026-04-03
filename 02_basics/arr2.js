@@ -1,13 +1,13 @@
 const marvelheroes=["Thor","Ironman","Spidermn"]
 const dcheroes=["superman","flash","batman"]
 
-// marvelheroes.push(dcheroes)
-// console.log(marvelheroes[3])
+//marvelheroes.push(dcheroes)
+//console.log(marvelheroes[3])
 
 
 
-//const newarr=marvelheroes.concat(dcheroes)
-//console.log(newarr[4])
+const newarr=marvelheroes.concat(dcheroes)
+console.log(newarr[4])
 
 
 // const newarr=[...marvelheroes,...dcheroes]
